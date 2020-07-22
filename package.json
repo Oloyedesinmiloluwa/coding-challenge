@@ -1,0 +1,15 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "challenge",
+  "main": "challenge2.js",
+  "scripts": {
+    "test": "mocha **.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
